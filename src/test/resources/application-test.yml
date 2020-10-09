@@ -1,0 +1,20 @@
+spring:
+  data:
+    mongodb:
+      database: mobile-handset
+server:
+  error:
+    whitelabel:
+      enabled: false
+  port: 8687
+
+app:
+  http:
+    axiom:
+      serviceUrl: https://a511e938-a640-4868-939e-6eef06127ca1.mock.pstmn.io/
+      readTimeoutMs: 5000
+      connectTimeoutMs: 10000
+      maxAutoRetries: 3
+      backoffDelayMs: 500
+
+
