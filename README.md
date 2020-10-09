@@ -30,3 +30,6 @@ Project can be imported to one of IDEs or run using maven
 
 # Some Notes
 Project uses embedded MongoDB database,when you run application it will be downloaded , it might take a few minutes (only first time)
+
+# Documentation
+https://github.com/saghayar/mobile-handset/tree/master/documentation
