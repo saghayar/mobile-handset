@@ -25,8 +25,8 @@ The criteria can be any field in the handset data along with any value. Examples
 4. Provide a documentation and a high-level architecture of your application. You can
 do one or more diagrams, as you see suitable, to describe your application functionality.
 
-#Running options
+# Running options
 Project can be imported to one of IDEs or run using maven 
 
-#Some Notes
+# Some Notes
 Project uses embedded MongoDB database,when you run application it will be downloaded , it might take a few minutes (only first time)
