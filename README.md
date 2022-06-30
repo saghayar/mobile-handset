@@ -5,7 +5,6 @@ Goal
 Design and implement a Java application following the requirements below.
 Deliverables
 • A fully running Java application.
-• Source code: sent through email, or uploaded to a Git repository.
 • Running instructions.
 Technologies & frameworks:
 Java 8, Spring Boot (preferably version 2.0+)
